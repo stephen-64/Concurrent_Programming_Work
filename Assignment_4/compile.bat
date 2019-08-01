@@ -1,0 +1,1 @@
+c++ main.cpp -o main.exe -L "C:\Program Files (x86)\IntelSWTools\OpenCL\sdk\lib\x64" -lOpenCl -I "C:\Program Files (x86)\IntelSWTools\OpenCL\sdk\include"
